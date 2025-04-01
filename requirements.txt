@@ -1,0 +1,10 @@
+clickhouse_connect==0.8.15
+dash==2.18.2
+langchain==0.3.22
+langchain_anthropic==0.3.10
+pandas==2.2.3
+plotly==6.0.0
+pydantic==2.11.1
+python-dotenv==1.1.0
+streamlit==1.42.1
+streamlit_autorefresh==1.0.1
