@@ -2,7 +2,6 @@ import streamlit as st
 
 # API Keys for LLM
 API_KEY = st.secrets["ANTHROPIC_API_KEY"]
-OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Database Credentials
 DB_HOST = st.secrets["DB_HOST"]
